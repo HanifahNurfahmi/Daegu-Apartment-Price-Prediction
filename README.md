@@ -20,7 +20,7 @@ Selanjutnya, kita akan membangun suatu model regresi yang akan membantu agen pro
 ***
 ## **Metric Evaluation**
 Diantara Evaluasi metrik yang sering digunakan untuk memprediksi seperti MSE, RMSE dan MAPE, kali ini saya memilih mengggunaka **MAE**. Dimana MAE adalah rataan nilai absolut dari error. Cara kerja nya adalah Semakin kecil nilai MAE yang dihasilkan, berarti model semakin akurat dalam memprediksi harga sewa sesuai dengan limitasi fitur yang digunakan. 
-[mae](MAE.jpg)
+![mae](MAE.jpg)
 
 
 **Attributes Information**
