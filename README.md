@@ -1,5 +1,6 @@
 # Daegu Apartment Price Prediction
 ![daegu](aptdaegu.jpg)
+[Sumber](https://asset.kompas.com/crops/426m89fv5s3wac2EjrQ9v6fzwP0=/0x0:780x520/750x500/data/photo/2020/09/30/5f749b2c7a20f.png)
 ****
 
 # **Business Problem Understanding**
